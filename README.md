@@ -31,7 +31,7 @@ We can use the **Browse** option to see our application.
 
 #### GitHub Repository --> Actions
 
-If our configurations are correct in Azure Web App, it will successfully create a workflow as shown below and also save that in repository at /git/workflow directory.
+If our configurations are correct in Azure Web App, it will successfully create a workflow as shown below and also save that in repository at /.github/workflow directory.
 
 ![image](https://github.com/ajaydabe/Python-Flask-App-on-Azure-Web-App-Triluxo-Tech/assets/160045230/e0796ff2-0768-4db4-a9cc-93f4ec103147)
 
